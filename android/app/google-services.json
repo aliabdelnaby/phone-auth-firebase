@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952476844716",
+    "project_id": "auth-d2ddc",
+    "storage_bucket": "auth-d2ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952476844716:android:a9d8f908dcc1e45d219509",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQAJYzoEtcoyJ64XMfDAEQ-ZOjsIbRw7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
